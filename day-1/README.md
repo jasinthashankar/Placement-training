@@ -18,6 +18,7 @@
 ## Key Learning
 input() returns a string by default.
 
+## interview based questions
 Q1. What is the difference between = and ==?
 = is used to assign a value to a variable, whereas == is used to compare two values.
 
